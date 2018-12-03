@@ -1,6 +1,6 @@
 .DS_STORE
 node_modules
-keys.js
+dev.js
 scripts/flow/*/.flowconfig
 *~
 *.pyc
